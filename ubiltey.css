@@ -1,0 +1,20 @@
+.playbar {
+    position: fixed;
+    bottom: 0;
+    width: 65vw;
+    background: #e2d9d9;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.songbuttons {
+    display: flex;
+    gap: 20px;
+}
+
+.songbuttons img {
+    cursor: pointer;
+}
